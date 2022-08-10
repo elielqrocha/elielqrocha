@@ -1,4 +1,4 @@
-## Olá! Sou o Eliel Rocha, seja bem vindo ao meu GitHub!
+## Olá! Eu sou o Eliel Rocha, seja bem vindo ao meu GitHub!
 
 - 🔭 Atualmente trabalhando como vendedor autônomo 
 - 🌱 Estudando Desenvolvimento Back-end
