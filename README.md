@@ -6,7 +6,6 @@
 
 ##
 
-- 🔭 Atualmente trabalhando como vendedor autônomo 
 - 🌱 Estudando Desenvolvimento Back-end
 - 😄 Pronomes: ele/dele
 
