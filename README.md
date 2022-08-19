@@ -6,14 +6,14 @@
 
 ##
 
-- 🌱 Estudando Desenvolvimento Back-end
+- 🌱 Estudando Sistemas para Internet
 - 😄 Pronomes: ele/dele
 
 ##
 
 <div align="center">
   <a href="https://github.com/elielqrocha">
-  <img height="180em",width="48%"  src="https://github-readme-stats.vercel.app/api?username=elielqrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em", src="https://github-readme-stats.vercel.app/api?username=elielqrocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em", src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielqrocha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
